@@ -1,0 +1,13 @@
+0 to 160 idle in stand pose
+
+160 to 170 still
+
+170 to 189 stand to sit
+
+189 210 still
+
+210 to 714 stit idle
+
+714 to 725 still
+
+725 to 823 idle 2

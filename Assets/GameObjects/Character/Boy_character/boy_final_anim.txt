@@ -1,0 +1,20 @@
+0 to 11 idle to walk
+
+11 to 50 walk loop
+
+50 to 56 still
+
+56 to 81 walk to idle
+
+81 to 247 idle
+
+247 to 262 still
+
+262 to 309 sit in car
+
+309 to 318 still
+
+318 to 371 out from car
+
+
+

@@ -1,0 +1,51 @@
+436 to 530 ak47 gun reload
+530 to 537 still
+
+frame 537 to 544 rapid fire
+
+frame 544 to 565 slow fire
+
+frame 565 to 570 still
+
+frame 530 to 570 jump from sand bags
+
+frame 570 to 603 Run animation
+frame 570 to 577 fire position to run
+frame 597 to 603 run to fire position 
+
+frame 577 to 597 run forward (loop)
+frame 604 to 610 firing to sitting firing
+frame 610 to 622 sitting single fir(loop)
+frame 624 to 631 sitting rapid fire(loop) 
+frame 631 to 637 sitting to stand fire position
+frane 637 to 644 still pose
+frame 650 to 679 sitting death
+frame 685 to 720 idle to death.
+frame 721 to 767 idle to death second
+frame 775 to 810 fire to death
+frame 811 to 857 fire to death second
+frame 859 to 869 idle to fire
+frame 870 to 879 fire to idle
+
+frame 884 to 930 walk
+frame 891 to 924 walk (loop able) 
+frame 884 to 891 idle to walk 
+frame 924 to 930 walk to idle 
+frame 932 to 1132 first idle
+frame 1132 to 1200 idle breath
+frame 1200 to 1410 2nd idle
+frame 1415 to 1425 idle to run
+frame 1425 to 1435 run to idle
+frame 1435 to 1440 still pose
+frame 1440 to 1460 get hit in standing pose
+frame 1464 to 1488 get hit in fire position
+frame 1490 to 1516 get hin in sitting position
+frame 1516 to 1520 sitting still pose.
+frame 1520 to 1564 dive animation
+frame 1570 to 1636 slow walk loopable
+frame 1563 to 1570 idle to slow walk
+frame 1636 to 1643 slow walk to idle
+frame 1650 to 1658 walk to run
+frame 1658  to 1666 run to walk
+frame 1700 to 1720 standing still
+frame 1675 to 1680 sittting still

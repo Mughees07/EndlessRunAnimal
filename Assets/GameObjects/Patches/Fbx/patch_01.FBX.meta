@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 3ddee58584d1c4fa4a9ba0571c7fb5f0
+timeCreated: 1475217461
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barber shop
+    100002: barber shop2
+    100004: bench
+    100006: bench 1
+    100008: bench 2
+    100010: bench 3
+    100012: bench 4
+    100014: bench_048
+    100016: bench_050
+    100018: bench_051
+    100020: bench_052
+    100022: bench_053
+    100024: bench_054
+    100026: bench_055
+    100028: bench_056
+    100030: bench_057
+    100032: bench_059
+    100034: bench_060
+    100036: bench_061
+    100038: bench_062
+    100040: bench_063
+    100042: bench_064
+    100044: bench_066
+    100046: bench_067
+    100048: bench_068
+    100050: bench_069
+    100052: bench_071
+    100054: bench_072
+    100056: bench_073
+    100058: Building_Gym003
+    100060: Building_Gym004
+    100062: Building_Gym005
+    100064: Building_House_A00
+    100066: Building_House_A001
+    100068: Building_House_C006
+    100070: Building_House_C007
+    100072: Building_House_D011
+    100074: Building_House_D012
+    100076: Building_House_D013
+    100078: Building_House_D014
+    100080: Building_Shop_A01
+    100082: city:polySurface333
+    100084: city:polySurface335
+    100086: city:polySurface336
+    100088: city:polySurface337
+    100090: city:polySurface338
+    100092: city:polySurface339
+    100094: fence garden
+    100096: fence garden 1
+    100098: fence garden 2
+    100100: fence garden 3
+    100102: fence garden 4
+    100104: Grass
+    100106: house
+    100108: house-135
+    100110: house-143
+    100112: house-door-01-005
+    100114: house-door-01-006
+    100116: house-door-24-005
+    100118: house03:polySurface055
+    100120: house2
+    100122: Japanese__h003
+    100124: Japanese__h01
+    100126: Light-pole_126
+    100128: Light-pole_127
+    100130: Light-pole_128
+    100132: Light-pole_129
+    100134: Light-pole_130
+    100136: Light-pole_131
+    100138: Light-pole_133
+    100140: Light-pole_134
+    100142: Light-pole_135
+    100144: Light-pole_136
+    100146: Light-pole_137
+    100148: Light-pole_138
+    100150: Light-pole_139
+    100152: Light-pole_141
+    100154: Light-pole_142
+    100156: Light-pole_143
+    100158: Light-pole_144
+    100160: Light-pole_145
+    100162: Light-pole_146
+    100164: Light-pole_147
+    100166: Light-pole_149
+    100168: Light-pole_150
+    100170: Light-pole_151
+    100172: Light-pole_152
+    100174: Light-pole_156
+    100176: Light-pole_157
+    100178: //RootNode
+    100180: pine tree
+    100182: pine tree 1
+    100184: pine tree 10
+    100186: pine tree 11
+    100188: pine tree 12
+    100190: pine tree 13
+    100192: pine tree 14
+    100194: pine tree 15
+    100196: pine tree 16
+    100198: pine tree 17
+    100200: pine tree 2
+    100202: pine tree 3
+    100204: pine tree 4
+    100206: pine tree 5
+    100208: pine tree 6
+    100210: pine tree 7
+    100212: pine tree 8
+    100214: pine tree 9
+    100216: Pine038
+    100218: Pine043
+    100220: Pine053
+    100222: saloon
+    100224: saloon001
+    100226: shop
+    100228: shop 1
+    100230: shop2
+    100232: shop3
+    100234: tree
+    100236: tree 1
+    100238: tree 10
+    100240: tree 2
+    100242: tree 3
+    100244: tree 4
+    100246: tree 5
+    100248: tree 6
+    100250: tree 7
+    100252: tree 8
+    100254: tree 9
+    400000: barber shop
+    400002: barber shop2
+    400004: bench
+    400006: bench 1
+    400008: bench 2
+    400010: bench 3
+    400012: bench 4
+    400014: bench_048
+    400016: bench_050
+    400018: bench_051
+    400020: bench_052
+    400022: bench_053
+    400024: bench_054
+    400026: bench_055
+    400028: bench_056
+    400030: bench_057
+    400032: bench_059
+    400034: bench_060
+    400036: bench_061
+    400038: bench_062
+    400040: bench_063
+    400042: bench_064
+    400044: bench_066
+    400046: bench_067
+    400048: bench_068
+    400050: bench_069
+    400052: bench_071
+    400054: bench_072
+    400056: bench_073
+    400058: Building_Gym003
+    400060: Building_Gym004
+    400062: Building_Gym005
+    400064: Building_House_A00
+    400066: Building_House_A001
+    400068: Building_House_C006
+    400070: Building_House_C007
+    400072: Building_House_D011
+    400074: Building_House_D012
+    400076: Building_House_D013
+    400078: Building_House_D014
+    400080: Building_Shop_A01
+    400082: city:polySurface333
+    400084: city:polySurface335
+    400086: city:polySurface336
+    400088: city:polySurface337
+    400090: city:polySurface338
+    400092: city:polySurface339
+    400094: fence garden
+    400096: fence garden 1
+    400098: fence garden 2
+    400100: fence garden 3
+    400102: fence garden 4
+    400104: Grass
+    400106: house
+    400108: house-135
+    400110: house-143
+    400112: house-door-01-005
+    400114: house-door-01-006
+    400116: house-door-24-005
+    400118: house03:polySurface055
+    400120: house2
+    400122: Japanese__h003
+    400124: Japanese__h01
+    400126: Light-pole_126
+    400128: Light-pole_127
+    400130: Light-pole_128
+    400132: Light-pole_129
+    400134: Light-pole_130
+    400136: Light-pole_131
+    400138: Light-pole_133
+    400140: Light-pole_134
+    400142: Light-pole_135
+    400144: Light-pole_136
+    400146: Light-pole_137
+    400148: Light-pole_138
+    400150: Light-pole_139
+    400152: Light-pole_141
+    400154: Light-pole_142
+    400156: Light-pole_143
+    400158: Light-pole_144
+    400160: Light-pole_145
+    400162: Light-pole_146
+    400164: Light-pole_147
+    400166: Light-pole_149
+    400168: Light-pole_150
+    400170: Light-pole_151
+    400172: Light-pole_152
+    400174: Light-pole_156
+    400176: Light-pole_157
+    400178: //RootNode
+    400180: pine tree
+    400182: pine tree 1
+    400184: pine tree 10
+    400186: pine tree 11
+    400188: pine tree 12
+    400190: pine tree 13
+    400192: pine tree 14
+    400194: pine tree 15
+    400196: pine tree 16
+    400198: pine tree 17
+    400200: pine tree 2
+    400202: pine tree 3
+    400204: pine tree 4
+    400206: pine tree 5
+    400208: pine tree 6
+    400210: pine tree 7
+    400212: pine tree 8
+    400214: pine tree 9
+    400216: Pine038
+    400218: Pine043
+    400220: Pine053
+    400222: saloon
+    400224: saloon001
+    400226: shop
+    400228: shop 1
+    400230: shop2
+    400232: shop3
+    400234: tree
+    400236: tree 1
+    400238: tree 10
+    400240: tree 2
+    400242: tree 3
+    400244: tree 4
+    400246: tree 5
+    400248: tree 6
+    400250: tree 7
+    400252: tree 8
+    400254: tree 9
+    2300000: barber shop
+    2300002: barber shop2
+    2300004: bench
+    2300006: bench 1
+    2300008: bench 2
+    2300010: bench 3
+    2300012: bench 4
+    2300014: bench_048
+    2300016: bench_050
+    2300018: bench_051
+    2300020: bench_052
+    2300022: bench_053
+    2300024: bench_054
+    2300026: bench_055
+    2300028: bench_056
+    2300030: bench_057
+    2300032: bench_059
+    2300034: bench_060
+    2300036: bench_061
+    2300038: bench_062
+    2300040: bench_063
+    2300042: bench_064
+    2300044: bench_066
+    2300046: bench_067
+    2300048: bench_068
+    2300050: bench_069
+    2300052: bench_071
+    2300054: bench_072
+    2300056: bench_073
+    2300058: Building_Gym003
+    2300060: Building_Gym004
+    2300062: Building_Gym005
+    2300064: Building_House_A00
+    2300066: Building_House_A001
+    2300068: Building_House_C006
+    2300070: Building_House_C007
+    2300072: Building_House_D011
+    2300074: Building_House_D012
+    2300076: Building_House_D013
+    2300078: Building_House_D014
+    2300080: Building_Shop_A01
+    2300082: city:polySurface333
+    2300084: city:polySurface335
+    2300086: city:polySurface336
+    2300088: city:polySurface337
+    2300090: city:polySurface338
+    2300092: city:polySurface339
+    2300094: fence garden
+    2300096: fence garden 1
+    2300098: fence garden 2
+    2300100: fence garden 3
+    2300102: fence garden 4
+    2300104: Grass
+    2300106: house
+    2300108: house-door-24-005
+    2300110: house03:polySurface055
+    2300112: house2
+    2300114: Japanese__h003
+    2300116: Japanese__h01
+    2300118: Light-pole_126
+    2300120: Light-pole_127
+    2300122: Light-pole_128
+    2300124: Light-pole_129
+    2300126: Light-pole_130
+    2300128: Light-pole_131
+    2300130: Light-pole_133
+    2300132: Light-pole_134
+    2300134: Light-pole_135
+    2300136: Light-pole_136
+    2300138: Light-pole_137
+    2300140: Light-pole_138
+    2300142: Light-pole_139
+    2300144: Light-pole_141
+    2300146: Light-pole_142
+    2300148: Light-pole_143
+    2300150: Light-pole_144
+    2300152: Light-pole_145
+    2300154: Light-pole_146
+    2300156: Light-pole_147
+    2300158: Light-pole_149
+    2300160: Light-pole_150
+    2300162: Light-pole_151
+    2300164: Light-pole_152
+    2300166: Light-pole_156
+    2300168: Light-pole_157
+    2300170: pine tree
+    2300172: pine tree 1
+    2300174: pine tree 10
+    2300176: pine tree 11
+    2300178: pine tree 12
+    2300180: pine tree 13
+    2300182: pine tree 14
+    2300184: pine tree 15
+    2300186: pine tree 16
+    2300188: pine tree 17
+    2300190: pine tree 2
+    2300192: pine tree 3
+    2300194: pine tree 4
+    2300196: pine tree 5
+    2300198: pine tree 6
+    2300200: pine tree 7
+    2300202: pine tree 8
+    2300204: pine tree 9
+    2300206: Pine038
+    2300208: Pine043
+    2300210: Pine053
+    2300212: saloon
+    2300214: saloon001
+    2300216: shop
+    2300218: shop 1
+    2300220: shop2
+    2300222: shop3
+    2300224: tree
+    2300226: tree 1
+    2300228: tree 10
+    2300230: tree 2
+    2300232: tree 3
+    2300234: tree 4
+    2300236: tree 5
+    2300238: tree 6
+    2300240: tree 7
+    2300242: tree 8
+    2300244: tree 9
+    3300000: barber shop
+    3300002: barber shop2
+    3300004: bench
+    3300006: bench 1
+    3300008: bench 2
+    3300010: bench 3
+    3300012: bench 4
+    3300014: bench_048
+    3300016: bench_050
+    3300018: bench_051
+    3300020: bench_052
+    3300022: bench_053
+    3300024: bench_054
+    3300026: bench_055
+    3300028: bench_056
+    3300030: bench_057
+    3300032: bench_059
+    3300034: bench_060
+    3300036: bench_061
+    3300038: bench_062
+    3300040: bench_063
+    3300042: bench_064
+    3300044: bench_066
+    3300046: bench_067
+    3300048: bench_068
+    3300050: bench_069
+    3300052: bench_071
+    3300054: bench_072
+    3300056: bench_073
+    3300058: Building_Gym003
+    3300060: Building_Gym004
+    3300062: Building_Gym005
+    3300064: Building_House_A00
+    3300066: Building_House_A001
+    3300068: Building_House_C006
+    3300070: Building_House_C007
+    3300072: Building_House_D011
+    3300074: Building_House_D012
+    3300076: Building_House_D013
+    3300078: Building_House_D014
+    3300080: Building_Shop_A01
+    3300082: city:polySurface333
+    3300084: city:polySurface335
+    3300086: city:polySurface336
+    3300088: city:polySurface337
+    3300090: city:polySurface338
+    3300092: city:polySurface339
+    3300094: fence garden
+    3300096: fence garden 1
+    3300098: fence garden 2
+    3300100: fence garden 3
+    3300102: fence garden 4
+    3300104: Grass
+    3300106: house
+    3300108: house-door-24-005
+    3300110: house03:polySurface055
+    3300112: house2
+    3300114: Japanese__h003
+    3300116: Japanese__h01
+    3300118: Light-pole_126
+    3300120: Light-pole_127
+    3300122: Light-pole_128
+    3300124: Light-pole_129
+    3300126: Light-pole_130
+    3300128: Light-pole_131
+    3300130: Light-pole_133
+    3300132: Light-pole_134
+    3300134: Light-pole_135
+    3300136: Light-pole_136
+    3300138: Light-pole_137
+    3300140: Light-pole_138
+    3300142: Light-pole_139
+    3300144: Light-pole_141
+    3300146: Light-pole_142
+    3300148: Light-pole_143
+    3300150: Light-pole_144
+    3300152: Light-pole_145
+    3300154: Light-pole_146
+    3300156: Light-pole_147
+    3300158: Light-pole_149
+    3300160: Light-pole_150
+    3300162: Light-pole_151
+    3300164: Light-pole_152
+    3300166: Light-pole_156
+    3300168: Light-pole_157
+    3300170: pine tree
+    3300172: pine tree 1
+    3300174: pine tree 10
+    3300176: pine tree 11
+    3300178: pine tree 12
+    3300180: pine tree 13
+    3300182: pine tree 14
+    3300184: pine tree 15
+    3300186: pine tree 16
+    3300188: pine tree 17
+    3300190: pine tree 2
+    3300192: pine tree 3
+    3300194: pine tree 4
+    3300196: pine tree 5
+    3300198: pine tree 6
+    3300200: pine tree 7
+    3300202: pine tree 8
+    3300204: pine tree 9
+    3300206: Pine038
+    3300208: Pine043
+    3300210: Pine053
+    3300212: saloon
+    3300214: saloon001
+    3300216: shop
+    3300218: shop 1
+    3300220: shop2
+    3300222: shop3
+    3300224: tree
+    3300226: tree 1
+    3300228: tree 10
+    3300230: tree 2
+    3300232: tree 3
+    3300234: tree 4
+    3300236: tree 5
+    3300238: tree 6
+    3300240: tree 7
+    3300242: tree 8
+    3300244: tree 9
+    4300000: tree
+    4300002: pine tree
+    4300004: pine tree
+    4300006: Building_House_D013
+    4300008: saloon
+    4300010: city:polySurface339
+    4300012: house03:polySurface055
+    4300014: Building_Shop_A01
+    4300016: house2
+    4300018: tree
+    4300020: tree
+    4300022: pine tree
+    4300024: house
+    4300026: Building_Gym003
+    4300028: pine tree
+    4300030: pine tree
+    4300032: pine tree
+    4300034: pine tree
+    4300036: pine tree
+    4300038: Building_Gym004
+    4300040: city:polySurface333
+    4300042: tree
+    4300044: tree
+    4300046: saloon001
+    4300048: Building_House_D014
+    4300050: pine tree
+    4300052: Pine038
+    4300054: Building_House_D012
+    4300056: Building_House_A001
+    4300058: Building_House_D011
+    4300060: tree
+    4300062: city:polySurface338
+    4300064: tree
+    4300066: Building_House_C006
+    4300068: barber shop
+    4300070: pine tree
+    4300072: pine tree
+    4300074: city:polySurface337
+    4300076: tree
+    4300078: Japanese__h003
+    4300080: pine tree
+    4300082: bench_057
+    4300084: Pine053
+    4300086: Building_Gym005
+    4300088: pine tree
+    4300090: Building_House_A00
+    4300092: tree
+    4300094: pine tree
+    4300096: pine tree
+    4300098: Light-pole_135
+    4300100: Light-pole_157
+    4300102: bench_068
+    4300104: Japanese__h01
+    4300106: tree
+    4300108: city:polySurface336
+    4300110: tree
+    4300112: pine tree
+    4300114: pine tree
+    4300116: Pine043
+    4300118: barber shop2
+    4300120: city:polySurface335
+    4300122: bench
+    4300124: Building_House_C007
+    4300126: pine tree
+    4300128: bench_051
+    4300130: bench
+    4300132: Light-pole_147
+    4300134: Light-pole_145
+    4300136: Light-pole_144
+    4300138: bench_072
+    4300140: bench_050
+    4300142: Light-pole_141
+    4300144: bench_073
+    4300146: fence garden
+    4300148: Light-pole_156
+    4300150: bench
+    4300152: Light-pole_131
+    4300154: Light-pole_152
+    4300156: Light-pole_142
+    4300158: bench_048
+    4300160: bench_066
+    4300162: shop
+    4300164: Light-pole_133
+    4300166: Light-pole_151
+    4300168: bench_060
+    4300170: fence garden
+    4300172: Light-pole_134
+    4300174: bench_071
+    4300176: bench_059
+    4300178: bench
+    4300180: Light-pole_139
+    4300182: shop2
+    4300184: Light-pole_150
+    4300186: shop3
+    4300188: bench_054
+    4300190: bench_063
+    4300192: Light-pole_149
+    4300194: Light-pole_129
+    4300196: Light-pole_130
+    4300198: bench_055
+    4300200: fence garden
+    4300202: bench_069
+    4300204: bench
+    4300206: Light-pole_146
+    4300208: shop
+    4300210: bench_061
+    4300212: bench_056
+    4300214: Light-pole_138
+    4300216: Light-pole_137
+    4300218: fence garden
+    4300220: bench_062
+    4300222: Light-pole_143
+    4300224: house-door-24-005
+    4300226: Light-pole_128
+    4300228: bench_053
+    4300230: Light-pole_127
+    4300232: bench_067
+    4300234: Light-pole_126
+    4300236: bench_052
+    4300238: Light-pole_136
+    4300240: bench_064
+    4300242: fence garden
+    4300244: Grass
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

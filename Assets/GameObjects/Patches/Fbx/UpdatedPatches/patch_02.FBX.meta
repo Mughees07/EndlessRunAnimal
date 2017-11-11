@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: b485b7e5796574e0086e01f327dd2300
+timeCreated: 1476684895
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bake
+    100002: bench_092
+    100004: Building_CoffeeShop004
+    100006: chair table
+    100008: fence garden
+    100010: Light-pole_176
+    100012: //RootNode
+    100014: patch_02 1
+    100016: shop-017
+    100018: shop-08
+    100020: stall
+    100022: stall 1
+    100024: tree
+    400000: bake
+    400002: bench_092
+    400004: Building_CoffeeShop004
+    400006: chair table
+    400008: fence garden
+    400010: Light-pole_176
+    400012: //RootNode
+    400014: patch_02 1
+    400016: shop-017
+    400018: shop-08
+    400020: stall
+    400022: stall 1
+    400024: tree
+    2300000: bake
+    2300002: bench_092
+    2300004: Building_CoffeeShop004
+    2300006: chair table
+    2300008: fence garden
+    2300010: Light-pole_176
+    2300012: patch_02 1
+    2300014: shop-017
+    2300016: shop-08
+    2300018: stall
+    2300020: stall 1
+    2300022: tree
+    3300000: bake
+    3300002: bench_092
+    3300004: Building_CoffeeShop004
+    3300006: chair table
+    3300008: fence garden
+    3300010: Light-pole_176
+    3300012: patch_02 1
+    3300014: shop-017
+    3300016: shop-08
+    3300018: stall
+    3300020: stall 1
+    3300022: tree
+    4300000: shop-08
+    4300002: Light-pole_176
+    4300004: patch_02
+    4300006: shop-017
+    4300008: stall
+    4300010: tree
+    4300012: Building_CoffeeShop004
+    4300014: bench_092
+    4300016: chair table
+    4300018: stall
+    4300020: bake
+    4300022: fence garden
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 4e67d2f87944949e9aa8c26896026433
+timeCreated: 1475217463
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bake
+    100002: bake 1
+    100004: barber shop 3
+    100006: barber_05
+    100008: bench
+    100010: bench 1
+    100012: bench 2
+    100014: bench 3
+    100016: bench_077
+    100018: bench_078
+    100020: bench_079
+    100022: bench_080
+    100024: bench_081
+    100026: bench_082
+    100028: bench_083
+    100030: bench_084
+    100032: bench_085
+    100034: bench_086
+    100036: bench_088
+    100038: bench_089
+    100040: bench_090
+    100042: bench_091
+    100044: bench_092
+    100046: Building_Cinema007
+    100048: Building_Cinema008
+    100050: Building_CoffeeShop004
+    100052: Building_CoffeeShop005
+    100054: Building_Gym006
+    100056: Building_Gym007
+    100058: burger shop
+    100060: burger shop 1
+    100062: chair table
+    100064: chair table 1
+    100066: chair table 10
+    100068: chair table 11
+    100070: chair table 12
+    100072: chair table 13
+    100074: chair table 14
+    100076: chair table 2
+    100078: chair table 3
+    100080: chair table 4
+    100082: chair table 5
+    100084: chair table 6
+    100086: chair table 7
+    100088: chair table 8
+    100090: chair table 9
+    100092: chair tableq
+    100094: fence garden
+    100096: fence garden 1
+    100098: fence garden 2
+    100100: fence garden 3
+    100102: fruitBasket001
+    100104: fruitBasket002
+    100106: fruitBasket003
+    100108: fruitBasket004
+    100110: fruitBasket005
+    100112: fruitBasket006
+    100114: fruitBasket007
+    100116: fruitBasket008
+    100118: fruitBasket009
+    100120: fruitstand
+    100122: fruitstand002
+    100124: Light-pole_158
+    100126: Light-pole_159
+    100128: Light-pole_160
+    100130: Light-pole_161
+    100132: Light-pole_162
+    100134: Light-pole_163
+    100136: Light-pole_164
+    100138: Light-pole_165
+    100140: Light-pole_166
+    100142: Light-pole_167
+    100144: Light-pole_168
+    100146: Light-pole_169
+    100148: Light-pole_170
+    100150: Light-pole_171
+    100152: Light-pole_172
+    100154: Light-pole_173
+    100156: Light-pole_174
+    100158: Light-pole_175
+    100160: Light-pole_176
+    100162: Light-pole_177
+    100164: mart
+    100166: mart 1
+    100168: mart 2
+    100170: mart 3
+    100172: //RootNode
+    100174: patch_02 1
+    100176: pine tree
+    100178: pine tree 1
+    100180: pine tree 10
+    100182: pine tree 11
+    100184: pine tree 12
+    100186: pine tree 13
+    100188: pine tree 2
+    100190: pine tree 3
+    100192: pine tree 4
+    100194: pine tree 5
+    100196: pine tree 6
+    100198: pine tree 7
+    100200: pine tree 8
+    100202: pine tree 9
+    100204: shop
+    100206: shop 1
+    100208: shop-017
+    100210: shop-08
+    100212: shop-09
+    100214: shop4
+    100216: stall
+    100218: stall 1
+    100220: stall 2
+    100222: stall 3
+    100224: stall 4
+    100226: stall 5
+    100228: stall 6
+    100230: tree
+    100232: tree 1
+    100234: tree 2
+    100236: tree 3
+    100238: tree 4
+    100240: tree 5
+    100242: tree 6
+    100244: tree 7
+    100246: tree 8
+    400000: bake
+    400002: bake 1
+    400004: barber shop 3
+    400006: barber_05
+    400008: bench
+    400010: bench 1
+    400012: bench 2
+    400014: bench 3
+    400016: bench_077
+    400018: bench_078
+    400020: bench_079
+    400022: bench_080
+    400024: bench_081
+    400026: bench_082
+    400028: bench_083
+    400030: bench_084
+    400032: bench_085
+    400034: bench_086
+    400036: bench_088
+    400038: bench_089
+    400040: bench_090
+    400042: bench_091
+    400044: bench_092
+    400046: Building_Cinema007
+    400048: Building_Cinema008
+    400050: Building_CoffeeShop004
+    400052: Building_CoffeeShop005
+    400054: Building_Gym006
+    400056: Building_Gym007
+    400058: burger shop
+    400060: burger shop 1
+    400062: chair table
+    400064: chair table 1
+    400066: chair table 10
+    400068: chair table 11
+    400070: chair table 12
+    400072: chair table 13
+    400074: chair table 14
+    400076: chair table 2
+    400078: chair table 3
+    400080: chair table 4
+    400082: chair table 5
+    400084: chair table 6
+    400086: chair table 7
+    400088: chair table 8
+    400090: chair table 9
+    400092: chair tableq
+    400094: fence garden
+    400096: fence garden 1
+    400098: fence garden 2
+    400100: fence garden 3
+    400102: fruitBasket001
+    400104: fruitBasket002
+    400106: fruitBasket003
+    400108: fruitBasket004
+    400110: fruitBasket005
+    400112: fruitBasket006
+    400114: fruitBasket007
+    400116: fruitBasket008
+    400118: fruitBasket009
+    400120: fruitstand
+    400122: fruitstand002
+    400124: Light-pole_158
+    400126: Light-pole_159
+    400128: Light-pole_160
+    400130: Light-pole_161
+    400132: Light-pole_162
+    400134: Light-pole_163
+    400136: Light-pole_164
+    400138: Light-pole_165
+    400140: Light-pole_166
+    400142: Light-pole_167
+    400144: Light-pole_168
+    400146: Light-pole_169
+    400148: Light-pole_170
+    400150: Light-pole_171
+    400152: Light-pole_172
+    400154: Light-pole_173
+    400156: Light-pole_174
+    400158: Light-pole_175
+    400160: Light-pole_176
+    400162: Light-pole_177
+    400164: mart
+    400166: mart 1
+    400168: mart 2
+    400170: mart 3
+    400172: //RootNode
+    400174: patch_02 1
+    400176: pine tree
+    400178: pine tree 1
+    400180: pine tree 10
+    400182: pine tree 11
+    400184: pine tree 12
+    400186: pine tree 13
+    400188: pine tree 2
+    400190: pine tree 3
+    400192: pine tree 4
+    400194: pine tree 5
+    400196: pine tree 6
+    400198: pine tree 7
+    400200: pine tree 8
+    400202: pine tree 9
+    400204: shop
+    400206: shop 1
+    400208: shop-017
+    400210: shop-08
+    400212: shop-09
+    400214: shop4
+    400216: stall
+    400218: stall 1
+    400220: stall 2
+    400222: stall 3
+    400224: stall 4
+    400226: stall 5
+    400228: stall 6
+    400230: tree
+    400232: tree 1
+    400234: tree 2
+    400236: tree 3
+    400238: tree 4
+    400240: tree 5
+    400242: tree 6
+    400244: tree 7
+    400246: tree 8
+    2300000: bake
+    2300002: bake 1
+    2300004: barber shop 3
+    2300006: barber_05
+    2300008: bench
+    2300010: bench 1
+    2300012: bench 2
+    2300014: bench 3
+    2300016: bench_077
+    2300018: bench_078
+    2300020: bench_079
+    2300022: bench_080
+    2300024: bench_081
+    2300026: bench_082
+    2300028: bench_083
+    2300030: bench_084
+    2300032: bench_085
+    2300034: bench_086
+    2300036: bench_088
+    2300038: bench_089
+    2300040: bench_090
+    2300042: bench_091
+    2300044: bench_092
+    2300046: Building_Cinema007
+    2300048: Building_Cinema008
+    2300050: Building_CoffeeShop004
+    2300052: Building_CoffeeShop005
+    2300054: Building_Gym006
+    2300056: Building_Gym007
+    2300058: burger shop
+    2300060: burger shop 1
+    2300062: chair table
+    2300064: chair table 1
+    2300066: chair table 10
+    2300068: chair table 11
+    2300070: chair table 12
+    2300072: chair table 13
+    2300074: chair table 14
+    2300076: chair table 2
+    2300078: chair table 3
+    2300080: chair table 4
+    2300082: chair table 5
+    2300084: chair table 6
+    2300086: chair table 7
+    2300088: chair table 8
+    2300090: chair table 9
+    2300092: chair tableq
+    2300094: fence garden
+    2300096: fence garden 1
+    2300098: fence garden 2
+    2300100: fence garden 3
+    2300102: fruitBasket001
+    2300104: fruitBasket002
+    2300106: fruitBasket003
+    2300108: fruitBasket004
+    2300110: fruitBasket005
+    2300112: fruitBasket006
+    2300114: fruitBasket007
+    2300116: fruitBasket008
+    2300118: fruitBasket009
+    2300120: fruitstand
+    2300122: fruitstand002
+    2300124: Light-pole_158
+    2300126: Light-pole_159
+    2300128: Light-pole_160
+    2300130: Light-pole_161
+    2300132: Light-pole_162
+    2300134: Light-pole_163
+    2300136: Light-pole_164
+    2300138: Light-pole_165
+    2300140: Light-pole_166
+    2300142: Light-pole_167
+    2300144: Light-pole_168
+    2300146: Light-pole_169
+    2300148: Light-pole_170
+    2300150: Light-pole_171
+    2300152: Light-pole_172
+    2300154: Light-pole_173
+    2300156: Light-pole_174
+    2300158: Light-pole_175
+    2300160: Light-pole_176
+    2300162: Light-pole_177
+    2300164: mart
+    2300166: mart 1
+    2300168: mart 2
+    2300170: mart 3
+    2300172: patch_02 1
+    2300174: pine tree
+    2300176: pine tree 1
+    2300178: pine tree 10
+    2300180: pine tree 11
+    2300182: pine tree 12
+    2300184: pine tree 13
+    2300186: pine tree 2
+    2300188: pine tree 3
+    2300190: pine tree 4
+    2300192: pine tree 5
+    2300194: pine tree 6
+    2300196: pine tree 7
+    2300198: pine tree 8
+    2300200: pine tree 9
+    2300202: shop
+    2300204: shop 1
+    2300206: shop-017
+    2300208: shop-08
+    2300210: shop-09
+    2300212: shop4
+    2300214: stall
+    2300216: stall 1
+    2300218: stall 2
+    2300220: stall 3
+    2300222: stall 4
+    2300224: stall 5
+    2300226: stall 6
+    2300228: tree
+    2300230: tree 1
+    2300232: tree 2
+    2300234: tree 3
+    2300236: tree 4
+    2300238: tree 5
+    2300240: tree 6
+    2300242: tree 7
+    2300244: tree 8
+    3300000: bake
+    3300002: bake 1
+    3300004: barber shop 3
+    3300006: barber_05
+    3300008: bench
+    3300010: bench 1
+    3300012: bench 2
+    3300014: bench 3
+    3300016: bench_077
+    3300018: bench_078
+    3300020: bench_079
+    3300022: bench_080
+    3300024: bench_081
+    3300026: bench_082
+    3300028: bench_083
+    3300030: bench_084
+    3300032: bench_085
+    3300034: bench_086
+    3300036: bench_088
+    3300038: bench_089
+    3300040: bench_090
+    3300042: bench_091
+    3300044: bench_092
+    3300046: Building_Cinema007
+    3300048: Building_Cinema008
+    3300050: Building_CoffeeShop004
+    3300052: Building_CoffeeShop005
+    3300054: Building_Gym006
+    3300056: Building_Gym007
+    3300058: burger shop
+    3300060: burger shop 1
+    3300062: chair table
+    3300064: chair table 1
+    3300066: chair table 10
+    3300068: chair table 11
+    3300070: chair table 12
+    3300072: chair table 13
+    3300074: chair table 14
+    3300076: chair table 2
+    3300078: chair table 3
+    3300080: chair table 4
+    3300082: chair table 5
+    3300084: chair table 6
+    3300086: chair table 7
+    3300088: chair table 8
+    3300090: chair table 9
+    3300092: chair tableq
+    3300094: fence garden
+    3300096: fence garden 1
+    3300098: fence garden 2
+    3300100: fence garden 3
+    3300102: fruitBasket001
+    3300104: fruitBasket002
+    3300106: fruitBasket003
+    3300108: fruitBasket004
+    3300110: fruitBasket005
+    3300112: fruitBasket006
+    3300114: fruitBasket007
+    3300116: fruitBasket008
+    3300118: fruitBasket009
+    3300120: fruitstand
+    3300122: fruitstand002
+    3300124: Light-pole_158
+    3300126: Light-pole_159
+    3300128: Light-pole_160
+    3300130: Light-pole_161
+    3300132: Light-pole_162
+    3300134: Light-pole_163
+    3300136: Light-pole_164
+    3300138: Light-pole_165
+    3300140: Light-pole_166
+    3300142: Light-pole_167
+    3300144: Light-pole_168
+    3300146: Light-pole_169
+    3300148: Light-pole_170
+    3300150: Light-pole_171
+    3300152: Light-pole_172
+    3300154: Light-pole_173
+    3300156: Light-pole_174
+    3300158: Light-pole_175
+    3300160: Light-pole_176
+    3300162: Light-pole_177
+    3300164: mart
+    3300166: mart 1
+    3300168: mart 2
+    3300170: mart 3
+    3300172: patch_02 1
+    3300174: pine tree
+    3300176: pine tree 1
+    3300178: pine tree 10
+    3300180: pine tree 11
+    3300182: pine tree 12
+    3300184: pine tree 13
+    3300186: pine tree 2
+    3300188: pine tree 3
+    3300190: pine tree 4
+    3300192: pine tree 5
+    3300194: pine tree 6
+    3300196: pine tree 7
+    3300198: pine tree 8
+    3300200: pine tree 9
+    3300202: shop
+    3300204: shop 1
+    3300206: shop-017
+    3300208: shop-08
+    3300210: shop-09
+    3300212: shop4
+    3300214: stall
+    3300216: stall 1
+    3300218: stall 2
+    3300220: stall 3
+    3300222: stall 4
+    3300224: stall 5
+    3300226: stall 6
+    3300228: tree
+    3300230: tree 1
+    3300232: tree 2
+    3300234: tree 3
+    3300236: tree 4
+    3300238: tree 5
+    3300240: tree 6
+    3300242: tree 7
+    3300244: tree 8
+    4300000: chair table
+    4300002: Light-pole_176
+    4300004: fence garden
+    4300006: fruitBasket006
+    4300008: pine tree
+    4300010: chair table
+    4300012: stall
+    4300014: tree
+    4300016: Light-pole_163
+    4300018: Light-pole_161
+    4300020: chair table
+    4300022: bench_091
+    4300024: Building_Gym007
+    4300026: bench_089
+    4300028: Light-pole_160
+    4300030: stall
+    4300032: bench_079
+    4300034: bench_080
+    4300036: Light-pole_164
+    4300038: pine tree
+    4300040: pine tree
+    4300042: fence garden
+    4300044: Light-pole_168
+    4300046: bench_085
+    4300048: bench
+    4300050: stall
+    4300052: Building_Cinema008
+    4300054: fruitBasket003
+    4300056: fruitBasket001
+    4300058: fruitBasket002
+    4300060: tree
+    4300062: bench_081
+    4300064: Light-pole_165
+    4300066: barber_05
+    4300068: Light-pole_172
+    4300070: pine tree
+    4300072: chair table
+    4300074: burger shop
+    4300076: chair tableq
+    4300078: mart
+    4300080: chair table
+    4300082: bench_086
+    4300084: pine tree
+    4300086: Light-pole_166
+    4300088: bench_082
+    4300090: tree
+    4300092: fence garden
+    4300094: Building_Gym006
+    4300096: chair table
+    4300098: bench
+    4300100: pine tree
+    4300102: tree
+    4300104: bench_083
+    4300106: Light-pole_174
+    4300108: mart
+    4300110: shop
+    4300112: chair table
+    4300114: pine tree
+    4300116: pine tree
+    4300118: Light-pole_169
+    4300120: chair table
+    4300122: fence garden
+    4300124: bake
+    4300126: chair table
+    4300128: chair table
+    4300130: bench
+    4300132: Light-pole_171
+    4300134: stall
+    4300136: shop
+    4300138: fruitstand
+    4300140: Light-pole_170
+    4300142: Light-pole_167
+    4300144: bench_084
+    4300146: tree
+    4300148: shop-08
+    4300150: pine tree
+    4300152: Building_CoffeeShop005
+    4300154: chair table
+    4300156: Light-pole_173
+    4300158: bench_088
+    4300160: pine tree
+    4300162: stall
+    4300164: Building_Cinema007
+    4300166: patch_02
+    4300168: shop-09
+    4300170: mart
+    4300172: bake
+    4300174: Light-pole_162
+    4300176: Light-pole_159
+    4300178: chair table
+    4300180: bench_078
+    4300182: stall
+    4300184: bench_090
+    4300186: fruitBasket005
+    4300188: tree
+    4300190: tree
+    4300192: bench
+    4300194: Light-pole_158
+    4300196: chair table
+    4300198: Light-pole_177
+    4300200: tree
+    4300202: chair table
+    4300204: burger shop
+    4300206: bench_092
+    4300208: mart
+    4300210: bench_077
+    4300212: shop-017
+    4300214: pine tree
+    4300216: fruitstand002
+    4300218: pine tree
+    4300220: fruitBasket009
+    4300222: barber shop 3
+    4300224: pine tree
+    4300226: stall
+    4300228: Light-pole_175
+    4300230: Building_CoffeeShop004
+    4300232: chair table
+    4300234: fruitBasket007
+    4300236: shop4
+    4300238: fruitBasket004
+    4300240: fruitBasket008
+    4300242: tree
+    4300244: pine tree
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

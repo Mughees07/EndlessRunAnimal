@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 391c2a016f830934ebd8adc31e77eaf1
+timeCreated: 1473491461
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bench_106
+    100002: bench_107
+    100004: bench_108
+    100006: bench_109
+    100008: bench_110
+    100010: bench_112
+    100012: bench_113
+    100014: bench_114
+    100016: bench_116
+    100018: bench_117
+    100020: bench_118
+    100022: bench_120
+    100024: bench_121
+    100026: bench_122
+    100028: bench_123
+    100030: bench_124
+    100032: bench_125
+    100034: bench_126
+    100036: bench_127
+    100038: bench_128
+    100040: bench_129
+    100042: bench_130
+    100044: bench_131
+    100046: bench_132
+    100048: bench_133
+    100050: bench_134
+    100052: Building_Cinema009
+    100054: Building_CoffeeShop006
+    100056: Building_Gym008
+    100058: Building_House_D015
+    100060: Building_House_D016
+    100062: burger
+    100064: CarB_008
+    100066: CarB_009
+    100068: CarB_019
+    100070: CarB_020
+    100072: CarB_021
+    100074: CarB_022
+    100076: CarB_023
+    100078: CarB_024
+    100080: garden fence_patch3
+    100082: garden fence_patch3 1
+    100084: garden fence_patch3 10
+    100086: garden fence_patch3 11
+    100088: garden fence_patch3 12
+    100090: garden fence_patch3 13
+    100092: garden fence_patch3 14
+    100094: garden fence_patch3 15
+    100096: garden fence_patch3 2
+    100098: garden fence_patch3 3
+    100100: garden fence_patch3 4
+    100102: garden fence_patch3 5
+    100104: garden fence_patch3 6
+    100106: garden fence_patch3 7
+    100108: garden fence_patch3 8
+    100110: garden fence_patch3 9
+    100112: garden_pillar
+    100114: garden_pillar 1
+    100116: garden_pillar 10
+    100118: garden_pillar 11
+    100120: garden_pillar 2
+    100122: garden_pillar 3
+    100124: garden_pillar 4
+    100126: garden_pillar 5
+    100128: garden_pillar 6
+    100130: garden_pillar 7
+    100132: garden_pillar 8
+    100134: garden_pillar 9
+    100136: gate
+    100138: gate 1
+    100140: gate 2
+    100142: gate 3
+    100144: gate 4
+    100146: gate 5
+    100148: house
+    100150: house 1
+    100152: Light-pole_178
+    100154: Light-pole_179
+    100156: Light-pole_180
+    100158: Light-pole_181
+    100160: Light-pole_183
+    100162: Light-pole_184
+    100164: Light-pole_187
+    100166: Light-pole_188
+    100168: Light-pole_189
+    100170: Light-pole_190
+    100172: Light-pole_191
+    100174: Light-pole_193
+    100176: Light-pole_194
+    100178: Light-pole_195
+    100180: Light-pole_196
+    100182: Light-pole_197
+    100184: Light-pole_198
+    100186: Light-pole_200
+    100188: Light-pole_201
+    100190: Light-pole_203
+    100192: Light-pole_204
+    100194: Light-pole_205
+    100196: Light-pole_206
+    100198: Light-pole_207
+    100200: Light-pole_208
+    100202: parking sign
+    100204: parking sign 1
+    100206: parking sign 2
+    100208: parking sign 3
+    100210: //RootNode
+    100212: patch_03 1
+    100214: pine tree
+    100216: pine tree 1
+    100218: pine tree 10
+    100220: pine tree 2
+    100222: pine tree 3
+    100224: pine tree 4
+    100226: pine tree 5
+    100228: pine tree 6
+    100230: pine tree 7
+    100232: pine tree 8
+    100234: pine tree 9
+    100236: slide002
+    100238: slide003
+    100240: slide004
+    100242: slide005
+    100244: slide006
+    100246: slide007
+    100248: slide008
+    100250: slide009
+    100252: SportCar007
+    100254: SportCar017
+    100256: SportCar018
+    100258: SportCar019
+    100260: sports car
+    100262: sports car 1
+    100264: sports car 2
+    100266: sports car001
+    100268: stall
+    100270: stall 1
+    100272: stall 2
+    100274: stall 3
+    100276: stall 4
+    100278: stall 5
+    100280: SWING
+    100282: SWING001
+    100284: SWING002
+    100286: SWING003
+    100288: SWING004
+    100290: SWING005
+    100292: SWING006
+    100294: tree
+    100296: tree 1
+    100298: tree 10
+    100300: tree 2
+    100302: tree 3
+    100304: tree 4
+    100306: tree 5
+    100308: tree 6
+    100310: tree 7
+    100312: tree 8
+    100314: tree 9
+    400000: bench_106
+    400002: bench_107
+    400004: bench_108
+    400006: bench_109
+    400008: bench_110
+    400010: bench_112
+    400012: bench_113
+    400014: bench_114
+    400016: bench_116
+    400018: bench_117
+    400020: bench_118
+    400022: bench_120
+    400024: bench_121
+    400026: bench_122
+    400028: bench_123
+    400030: bench_124
+    400032: bench_125
+    400034: bench_126
+    400036: bench_127
+    400038: bench_128
+    400040: bench_129
+    400042: bench_130
+    400044: bench_131
+    400046: bench_132
+    400048: bench_133
+    400050: bench_134
+    400052: Building_Cinema009
+    400054: Building_CoffeeShop006
+    400056: Building_Gym008
+    400058: Building_House_D015
+    400060: Building_House_D016
+    400062: burger
+    400064: CarB_008
+    400066: CarB_009
+    400068: CarB_019
+    400070: CarB_020
+    400072: CarB_021
+    400074: CarB_022
+    400076: CarB_023
+    400078: CarB_024
+    400080: garden fence_patch3
+    400082: garden fence_patch3 1
+    400084: garden fence_patch3 10
+    400086: garden fence_patch3 11
+    400088: garden fence_patch3 12
+    400090: garden fence_patch3 13
+    400092: garden fence_patch3 14
+    400094: garden fence_patch3 15
+    400096: garden fence_patch3 2
+    400098: garden fence_patch3 3
+    400100: garden fence_patch3 4
+    400102: garden fence_patch3 5
+    400104: garden fence_patch3 6
+    400106: garden fence_patch3 7
+    400108: garden fence_patch3 8
+    400110: garden fence_patch3 9
+    400112: garden_pillar
+    400114: garden_pillar 1
+    400116: garden_pillar 10
+    400118: garden_pillar 11
+    400120: garden_pillar 2
+    400122: garden_pillar 3
+    400124: garden_pillar 4
+    400126: garden_pillar 5
+    400128: garden_pillar 6
+    400130: garden_pillar 7
+    400132: garden_pillar 8
+    400134: garden_pillar 9
+    400136: gate
+    400138: gate 1
+    400140: gate 2
+    400142: gate 3
+    400144: gate 4
+    400146: gate 5
+    400148: house
+    400150: house 1
+    400152: Light-pole_178
+    400154: Light-pole_179
+    400156: Light-pole_180
+    400158: Light-pole_181
+    400160: Light-pole_183
+    400162: Light-pole_184
+    400164: Light-pole_187
+    400166: Light-pole_188
+    400168: Light-pole_189
+    400170: Light-pole_190
+    400172: Light-pole_191
+    400174: Light-pole_193
+    400176: Light-pole_194
+    400178: Light-pole_195
+    400180: Light-pole_196
+    400182: Light-pole_197
+    400184: Light-pole_198
+    400186: Light-pole_200
+    400188: Light-pole_201
+    400190: Light-pole_203
+    400192: Light-pole_204
+    400194: Light-pole_205
+    400196: Light-pole_206
+    400198: Light-pole_207
+    400200: Light-pole_208
+    400202: parking sign
+    400204: parking sign 1
+    400206: parking sign 2
+    400208: parking sign 3
+    400210: //RootNode
+    400212: patch_03 1
+    400214: pine tree
+    400216: pine tree 1
+    400218: pine tree 10
+    400220: pine tree 2
+    400222: pine tree 3
+    400224: pine tree 4
+    400226: pine tree 5
+    400228: pine tree 6
+    400230: pine tree 7
+    400232: pine tree 8
+    400234: pine tree 9
+    400236: slide002
+    400238: slide003
+    400240: slide004
+    400242: slide005
+    400244: slide006
+    400246: slide007
+    400248: slide008
+    400250: slide009
+    400252: SportCar007
+    400254: SportCar017
+    400256: SportCar018
+    400258: SportCar019
+    400260: sports car
+    400262: sports car 1
+    400264: sports car 2
+    400266: sports car001
+    400268: stall
+    400270: stall 1
+    400272: stall 2
+    400274: stall 3
+    400276: stall 4
+    400278: stall 5
+    400280: SWING
+    400282: SWING001
+    400284: SWING002
+    400286: SWING003
+    400288: SWING004
+    400290: SWING005
+    400292: SWING006
+    400294: tree
+    400296: tree 1
+    400298: tree 10
+    400300: tree 2
+    400302: tree 3
+    400304: tree 4
+    400306: tree 5
+    400308: tree 6
+    400310: tree 7
+    400312: tree 8
+    400314: tree 9
+    2300000: bench_106
+    2300002: bench_107
+    2300004: bench_108
+    2300006: bench_109
+    2300008: bench_110
+    2300010: bench_112
+    2300012: bench_113
+    2300014: bench_114
+    2300016: bench_116
+    2300018: bench_117
+    2300020: bench_118
+    2300022: bench_120
+    2300024: bench_121
+    2300026: bench_122
+    2300028: bench_123
+    2300030: bench_124
+    2300032: bench_125
+    2300034: bench_126
+    2300036: bench_127
+    2300038: bench_128
+    2300040: bench_129
+    2300042: bench_130
+    2300044: bench_131
+    2300046: bench_132
+    2300048: bench_133
+    2300050: bench_134
+    2300052: Building_Cinema009
+    2300054: Building_CoffeeShop006
+    2300056: Building_Gym008
+    2300058: Building_House_D015
+    2300060: Building_House_D016
+    2300062: burger
+    2300064: CarB_008
+    2300066: CarB_009
+    2300068: CarB_019
+    2300070: CarB_020
+    2300072: CarB_021
+    2300074: CarB_022
+    2300076: CarB_023
+    2300078: CarB_024
+    2300080: garden fence_patch3
+    2300082: garden fence_patch3 1
+    2300084: garden fence_patch3 10
+    2300086: garden fence_patch3 11
+    2300088: garden fence_patch3 12
+    2300090: garden fence_patch3 13
+    2300092: garden fence_patch3 14
+    2300094: garden fence_patch3 15
+    2300096: garden fence_patch3 2
+    2300098: garden fence_patch3 3
+    2300100: garden fence_patch3 4
+    2300102: garden fence_patch3 5
+    2300104: garden fence_patch3 6
+    2300106: garden fence_patch3 7
+    2300108: garden fence_patch3 8
+    2300110: garden fence_patch3 9
+    2300112: garden_pillar
+    2300114: garden_pillar 1
+    2300116: garden_pillar 10
+    2300118: garden_pillar 11
+    2300120: garden_pillar 2
+    2300122: garden_pillar 3
+    2300124: garden_pillar 4
+    2300126: garden_pillar 5
+    2300128: garden_pillar 6
+    2300130: garden_pillar 7
+    2300132: garden_pillar 8
+    2300134: garden_pillar 9
+    2300136: gate
+    2300138: gate 1
+    2300140: gate 2
+    2300142: gate 3
+    2300144: gate 4
+    2300146: gate 5
+    2300148: house
+    2300150: house 1
+    2300152: Light-pole_178
+    2300154: Light-pole_179
+    2300156: Light-pole_180
+    2300158: Light-pole_181
+    2300160: Light-pole_183
+    2300162: Light-pole_184
+    2300164: Light-pole_187
+    2300166: Light-pole_188
+    2300168: Light-pole_189
+    2300170: Light-pole_190
+    2300172: Light-pole_191
+    2300174: Light-pole_193
+    2300176: Light-pole_194
+    2300178: Light-pole_195
+    2300180: Light-pole_196
+    2300182: Light-pole_197
+    2300184: Light-pole_198
+    2300186: Light-pole_200
+    2300188: Light-pole_201
+    2300190: Light-pole_203
+    2300192: Light-pole_204
+    2300194: Light-pole_205
+    2300196: Light-pole_206
+    2300198: Light-pole_207
+    2300200: Light-pole_208
+    2300202: parking sign
+    2300204: parking sign 1
+    2300206: parking sign 2
+    2300208: parking sign 3
+    2300210: patch_03 1
+    2300212: pine tree
+    2300214: pine tree 1
+    2300216: pine tree 10
+    2300218: pine tree 2
+    2300220: pine tree 3
+    2300222: pine tree 4
+    2300224: pine tree 5
+    2300226: pine tree 6
+    2300228: pine tree 7
+    2300230: pine tree 8
+    2300232: pine tree 9
+    2300234: slide002
+    2300236: slide003
+    2300238: slide004
+    2300240: slide005
+    2300242: slide006
+    2300244: slide007
+    2300246: slide008
+    2300248: slide009
+    2300250: SportCar007
+    2300252: SportCar017
+    2300254: SportCar018
+    2300256: SportCar019
+    2300258: sports car
+    2300260: sports car 1
+    2300262: sports car 2
+    2300264: sports car001
+    2300266: stall
+    2300268: stall 1
+    2300270: stall 2
+    2300272: stall 3
+    2300274: stall 4
+    2300276: stall 5
+    2300278: SWING
+    2300280: SWING001
+    2300282: SWING002
+    2300284: SWING003
+    2300286: SWING004
+    2300288: SWING005
+    2300290: SWING006
+    2300292: tree
+    2300294: tree 1
+    2300296: tree 10
+    2300298: tree 2
+    2300300: tree 3
+    2300302: tree 4
+    2300304: tree 5
+    2300306: tree 6
+    2300308: tree 7
+    2300310: tree 8
+    2300312: tree 9
+    3300000: bench_106
+    3300002: bench_107
+    3300004: bench_108
+    3300006: bench_109
+    3300008: bench_110
+    3300010: bench_112
+    3300012: bench_113
+    3300014: bench_114
+    3300016: bench_116
+    3300018: bench_117
+    3300020: bench_118
+    3300022: bench_120
+    3300024: bench_121
+    3300026: bench_122
+    3300028: bench_123
+    3300030: bench_124
+    3300032: bench_125
+    3300034: bench_126
+    3300036: bench_127
+    3300038: bench_128
+    3300040: bench_129
+    3300042: bench_130
+    3300044: bench_131
+    3300046: bench_132
+    3300048: bench_133
+    3300050: bench_134
+    3300052: Building_Cinema009
+    3300054: Building_CoffeeShop006
+    3300056: Building_Gym008
+    3300058: Building_House_D015
+    3300060: Building_House_D016
+    3300062: burger
+    3300064: CarB_008
+    3300066: CarB_009
+    3300068: CarB_019
+    3300070: CarB_020
+    3300072: CarB_021
+    3300074: CarB_022
+    3300076: CarB_023
+    3300078: CarB_024
+    3300080: garden fence_patch3
+    3300082: garden fence_patch3 1
+    3300084: garden fence_patch3 10
+    3300086: garden fence_patch3 11
+    3300088: garden fence_patch3 12
+    3300090: garden fence_patch3 13
+    3300092: garden fence_patch3 14
+    3300094: garden fence_patch3 15
+    3300096: garden fence_patch3 2
+    3300098: garden fence_patch3 3
+    3300100: garden fence_patch3 4
+    3300102: garden fence_patch3 5
+    3300104: garden fence_patch3 6
+    3300106: garden fence_patch3 7
+    3300108: garden fence_patch3 8
+    3300110: garden fence_patch3 9
+    3300112: garden_pillar
+    3300114: garden_pillar 1
+    3300116: garden_pillar 10
+    3300118: garden_pillar 11
+    3300120: garden_pillar 2
+    3300122: garden_pillar 3
+    3300124: garden_pillar 4
+    3300126: garden_pillar 5
+    3300128: garden_pillar 6
+    3300130: garden_pillar 7
+    3300132: garden_pillar 8
+    3300134: garden_pillar 9
+    3300136: gate
+    3300138: gate 1
+    3300140: gate 2
+    3300142: gate 3
+    3300144: gate 4
+    3300146: gate 5
+    3300148: house
+    3300150: house 1
+    3300152: Light-pole_178
+    3300154: Light-pole_179
+    3300156: Light-pole_180
+    3300158: Light-pole_181
+    3300160: Light-pole_183
+    3300162: Light-pole_184
+    3300164: Light-pole_187
+    3300166: Light-pole_188
+    3300168: Light-pole_189
+    3300170: Light-pole_190
+    3300172: Light-pole_191
+    3300174: Light-pole_193
+    3300176: Light-pole_194
+    3300178: Light-pole_195
+    3300180: Light-pole_196
+    3300182: Light-pole_197
+    3300184: Light-pole_198
+    3300186: Light-pole_200
+    3300188: Light-pole_201
+    3300190: Light-pole_203
+    3300192: Light-pole_204
+    3300194: Light-pole_205
+    3300196: Light-pole_206
+    3300198: Light-pole_207
+    3300200: Light-pole_208
+    3300202: parking sign
+    3300204: parking sign 1
+    3300206: parking sign 2
+    3300208: parking sign 3
+    3300210: patch_03 1
+    3300212: pine tree
+    3300214: pine tree 1
+    3300216: pine tree 10
+    3300218: pine tree 2
+    3300220: pine tree 3
+    3300222: pine tree 4
+    3300224: pine tree 5
+    3300226: pine tree 6
+    3300228: pine tree 7
+    3300230: pine tree 8
+    3300232: pine tree 9
+    3300234: slide002
+    3300236: slide003
+    3300238: slide004
+    3300240: slide005
+    3300242: slide006
+    3300244: slide007
+    3300246: slide008
+    3300248: slide009
+    3300250: SportCar007
+    3300252: SportCar017
+    3300254: SportCar018
+    3300256: SportCar019
+    3300258: sports car
+    3300260: sports car 1
+    3300262: sports car 2
+    3300264: sports car001
+    3300266: stall
+    3300268: stall 1
+    3300270: stall 2
+    3300272: stall 3
+    3300274: stall 4
+    3300276: stall 5
+    3300278: SWING
+    3300280: SWING001
+    3300282: SWING002
+    3300284: SWING003
+    3300286: SWING004
+    3300288: SWING005
+    3300290: SWING006
+    3300292: tree
+    3300294: tree 1
+    3300296: tree 10
+    3300298: tree 2
+    3300300: tree 3
+    3300302: tree 4
+    3300304: tree 5
+    3300306: tree 6
+    3300308: tree 7
+    3300310: tree 8
+    3300312: tree 9
+    4300000: bench_121
+    4300002: garden fence_patch3
+    4300004: bench_123
+    4300006: Light-pole_194
+    4300008: tree
+    4300010: tree
+    4300012: garden fence_patch3
+    4300014: Light-pole_193
+    4300016: stall
+    4300018: Building_House_D015
+    4300020: bench_122
+    4300022: Light-pole_195
+    4300024: bench_124
+    4300026: bench_120
+    4300028: garden fence_patch3
+    4300030: Light-pole_196
+    4300032: garden_pillar
+    4300034: house
+    4300036: gate
+    4300038: stall
+    4300040: bench_125
+    4300042: garden_pillar
+    4300044: SWING006
+    4300046: Light-pole_197
+    4300048: Light-pole_191
+    4300050: garden fence_patch3
+    4300052: slide009
+    4300054: bench_118
+    4300056: pine tree
+    4300058: tree
+    4300060: bench_126
+    4300062: slide005
+    4300064: garden fence_patch3
+    4300066: garden_pillar
+    4300068: stall
+    4300070: gate
+    4300072: garden_pillar
+    4300074: bench_117
+    4300076: sports car001
+    4300078: CarB_021
+    4300080: Light-pole_189
+    4300082: tree
+    4300084: SportCar018
+    4300086: burger
+    4300088: CarB_022
+    4300090: garden fence_patch3
+    4300092: SWING005
+    4300094: bench_116
+    4300096: parking sign
+    4300098: slide008
+    4300100: Light-pole_190
+    4300102: Light-pole_200
+    4300104: bench_130
+    4300106: tree
+    4300108: Light-pole_188
+    4300110: Light-pole_201
+    4300112: garden fence_patch3
+    4300114: CarB_019
+    4300116: pine tree
+    4300118: Building_Gym008
+    4300120: SportCar017
+    4300122: bench_131
+    4300124: CarB_020
+    4300126: sports car
+    4300128: parking sign
+    4300130: garden_pillar
+    4300132: Light-pole_203
+    4300134: pine tree
+    4300136: gate
+    4300138: SWING004
+    4300140: slide007
+    4300142: garden_pillar
+    4300144: bench_106
+    4300146: tree
+    4300148: garden fence_patch3
+    4300150: bench_133
+    4300152: bench_107
+    4300154: pine tree
+    4300156: Light-pole_178
+    4300158: garden fence_patch3
+    4300160: Light-pole_208
+    4300162: Light-pole_179
+    4300164: Building_House_D016
+    4300166: bench_109
+    4300168: bench_134
+    4300170: house
+    4300172: garden fence_patch3
+    4300174: Light-pole_180
+    4300176: pine tree
+    4300178: garden_pillar
+    4300180: tree
+    4300182: gate
+    4300184: bench_108
+    4300186: garden_pillar
+    4300188: stall
+    4300190: garden fence_patch3
+    4300192: SWING
+    4300194: Light-pole_181
+    4300196: tree
+    4300198: Light-pole_207
+    4300200: slide002
+    4300202: pine tree
+    4300204: bench_127
+    4300206: bench_110
+    4300208: garden fence_patch3
+    4300210: Light-pole_198
+    4300212: garden_pillar
+    4300214: pine tree
+    4300216: stall
+    4300218: gate
+    4300220: slide006
+    4300222: garden_pillar
+    4300224: parking sign
+    4300226: pine tree
+    4300228: bench_129
+    4300230: SWING003
+    4300232: sports car
+    4300234: CarB_008
+    4300236: Building_CoffeeShop006
+    4300238: SportCar007
+    4300240: tree
+    4300242: garden fence_patch3
+    4300244: CarB_009
+    4300246: SWING001
+    4300248: bench_128
+    4300250: slide003
+    4300252: Light-pole_206
+    4300254: Light-pole_183
+    4300256: bench_112
+    4300258: pine tree
+    4300260: Light-pole_205
+    4300262: garden fence_patch3
+    4300264: parking sign
+    4300266: CarB_024
+    4300268: tree
+    4300270: pine tree
+    4300272: Building_Cinema009
+    4300274: SportCar019
+    4300276: bench_113
+    4300278: CarB_023
+    4300280: sports car
+    4300282: pine tree
+    4300284: garden_pillar
+    4300286: Light-pole_184
+    4300288: gate
+    4300290: stall
+    4300292: garden_pillar
+    4300294: Light-pole_204
+    4300296: garden fence_patch3
+    4300298: SWING002
+    4300300: bench_114
+    4300302: slide004
+    4300304: tree
+    4300306: patch_03
+    4300308: bench_132
+    4300310: Light-pole_187
+    4300312: garden fence_patch3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

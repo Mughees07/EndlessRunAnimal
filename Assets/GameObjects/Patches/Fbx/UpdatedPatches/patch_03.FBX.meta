@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: ea6f70f4b35bb412f9bbf15249df76d6
+timeCreated: 1476684896
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bench_106
+    100002: bench_107
+    100004: bench_108
+    100006: bench_109
+    100008: bench_110
+    100010: bench_112
+    100012: bench_113
+    100014: bench_114
+    100016: bench_116
+    100018: bench_117
+    100020: bench_118
+    100022: bench_120
+    100024: bench_121
+    100026: bench_122
+    100028: bench_123
+    100030: bench_124
+    100032: bench_125
+    100034: bench_126
+    100036: bench_127
+    100038: bench_128
+    100040: bench_129
+    100042: bench_130
+    100044: bench_131
+    100046: bench_132
+    100048: bench_133
+    100050: bench_134
+    100052: Building_House_D016
+    100054: burger
+    100056: CarB_008
+    100058: garden fence_patch3
+    100060: garden_pillar
+    100062: gate
+    100064: house
+    100066: Light-pole_178
+    100068: Light-pole_179
+    100070: Light-pole_180
+    100072: Light-pole_181
+    100074: Light-pole_183
+    100076: Light-pole_184
+    100078: Light-pole_187
+    100080: Light-pole_188
+    100082: Light-pole_189
+    100084: Light-pole_190
+    100086: Light-pole_191
+    100088: Light-pole_193
+    100090: Light-pole_194
+    100092: Light-pole_195
+    100094: Light-pole_196
+    100096: Light-pole_197
+    100098: Light-pole_198
+    100100: Light-pole_200
+    100102: Light-pole_201
+    100104: Light-pole_203
+    100106: Light-pole_204
+    100108: Light-pole_205
+    100110: Light-pole_206
+    100112: Light-pole_207
+    100114: Light-pole_208
+    100116: parking sign
+    100118: parking sign 1
+    100120: parking sign 2
+    100122: parking sign 3
+    100124: //RootNode
+    100126: patch_03 1
+    100128: slide002
+    100130: sports car
+    100132: sports car 1
+    100134: stall
+    100136: stall 1
+    100138: tree
+    400000: bench_106
+    400002: bench_107
+    400004: bench_108
+    400006: bench_109
+    400008: bench_110
+    400010: bench_112
+    400012: bench_113
+    400014: bench_114
+    400016: bench_116
+    400018: bench_117
+    400020: bench_118
+    400022: bench_120
+    400024: bench_121
+    400026: bench_122
+    400028: bench_123
+    400030: bench_124
+    400032: bench_125
+    400034: bench_126
+    400036: bench_127
+    400038: bench_128
+    400040: bench_129
+    400042: bench_130
+    400044: bench_131
+    400046: bench_132
+    400048: bench_133
+    400050: bench_134
+    400052: Building_House_D016
+    400054: burger
+    400056: CarB_008
+    400058: garden fence_patch3
+    400060: garden_pillar
+    400062: gate
+    400064: house
+    400066: Light-pole_178
+    400068: Light-pole_179
+    400070: Light-pole_180
+    400072: Light-pole_181
+    400074: Light-pole_183
+    400076: Light-pole_184
+    400078: Light-pole_187
+    400080: Light-pole_188
+    400082: Light-pole_189
+    400084: Light-pole_190
+    400086: Light-pole_191
+    400088: Light-pole_193
+    400090: Light-pole_194
+    400092: Light-pole_195
+    400094: Light-pole_196
+    400096: Light-pole_197
+    400098: Light-pole_198
+    400100: Light-pole_200
+    400102: Light-pole_201
+    400104: Light-pole_203
+    400106: Light-pole_204
+    400108: Light-pole_205
+    400110: Light-pole_206
+    400112: Light-pole_207
+    400114: Light-pole_208
+    400116: parking sign
+    400118: parking sign 1
+    400120: parking sign 2
+    400122: parking sign 3
+    400124: //RootNode
+    400126: patch_03 1
+    400128: slide002
+    400130: sports car
+    400132: sports car 1
+    400134: stall
+    400136: stall 1
+    400138: tree
+    2300000: bench_106
+    2300002: bench_107
+    2300004: bench_108
+    2300006: bench_109
+    2300008: bench_110
+    2300010: bench_112
+    2300012: bench_113
+    2300014: bench_114
+    2300016: bench_116
+    2300018: bench_117
+    2300020: bench_118
+    2300022: bench_120
+    2300024: bench_121
+    2300026: bench_122
+    2300028: bench_123
+    2300030: bench_124
+    2300032: bench_125
+    2300034: bench_126
+    2300036: bench_127
+    2300038: bench_128
+    2300040: bench_129
+    2300042: bench_130
+    2300044: bench_131
+    2300046: bench_132
+    2300048: bench_133
+    2300050: bench_134
+    2300052: Building_House_D016
+    2300054: burger
+    2300056: CarB_008
+    2300058: garden fence_patch3
+    2300060: garden_pillar
+    2300062: gate
+    2300064: house
+    2300066: Light-pole_178
+    2300068: Light-pole_179
+    2300070: Light-pole_180
+    2300072: Light-pole_181
+    2300074: Light-pole_183
+    2300076: Light-pole_184
+    2300078: Light-pole_187
+    2300080: Light-pole_188
+    2300082: Light-pole_189
+    2300084: Light-pole_190
+    2300086: Light-pole_191
+    2300088: Light-pole_193
+    2300090: Light-pole_194
+    2300092: Light-pole_195
+    2300094: Light-pole_196
+    2300096: Light-pole_197
+    2300098: Light-pole_198
+    2300100: Light-pole_200
+    2300102: Light-pole_201
+    2300104: Light-pole_203
+    2300106: Light-pole_204
+    2300108: Light-pole_205
+    2300110: Light-pole_206
+    2300112: Light-pole_207
+    2300114: Light-pole_208
+    2300116: parking sign
+    2300118: parking sign 1
+    2300120: parking sign 2
+    2300122: parking sign 3
+    2300124: patch_03 1
+    2300126: slide002
+    2300128: sports car
+    2300130: sports car 1
+    2300132: stall
+    2300134: stall 1
+    2300136: tree
+    3300000: bench_106
+    3300002: bench_107
+    3300004: bench_108
+    3300006: bench_109
+    3300008: bench_110
+    3300010: bench_112
+    3300012: bench_113
+    3300014: bench_114
+    3300016: bench_116
+    3300018: bench_117
+    3300020: bench_118
+    3300022: bench_120
+    3300024: bench_121
+    3300026: bench_122
+    3300028: bench_123
+    3300030: bench_124
+    3300032: bench_125
+    3300034: bench_126
+    3300036: bench_127
+    3300038: bench_128
+    3300040: bench_129
+    3300042: bench_130
+    3300044: bench_131
+    3300046: bench_132
+    3300048: bench_133
+    3300050: bench_134
+    3300052: Building_House_D016
+    3300054: burger
+    3300056: CarB_008
+    3300058: garden fence_patch3
+    3300060: garden_pillar
+    3300062: gate
+    3300064: house
+    3300066: Light-pole_178
+    3300068: Light-pole_179
+    3300070: Light-pole_180
+    3300072: Light-pole_181
+    3300074: Light-pole_183
+    3300076: Light-pole_184
+    3300078: Light-pole_187
+    3300080: Light-pole_188
+    3300082: Light-pole_189
+    3300084: Light-pole_190
+    3300086: Light-pole_191
+    3300088: Light-pole_193
+    3300090: Light-pole_194
+    3300092: Light-pole_195
+    3300094: Light-pole_196
+    3300096: Light-pole_197
+    3300098: Light-pole_198
+    3300100: Light-pole_200
+    3300102: Light-pole_201
+    3300104: Light-pole_203
+    3300106: Light-pole_204
+    3300108: Light-pole_205
+    3300110: Light-pole_206
+    3300112: Light-pole_207
+    3300114: Light-pole_208
+    3300116: parking sign
+    3300118: parking sign 1
+    3300120: parking sign 2
+    3300122: parking sign 3
+    3300124: patch_03 1
+    3300126: slide002
+    3300128: sports car
+    3300130: sports car 1
+    3300132: stall
+    3300134: stall 1
+    3300136: tree
+    4300000: bench_117
+    4300002: bench_131
+    4300004: Light-pole_203
+    4300006: bench_116
+    4300008: bench_118
+    4300010: bench_126
+    4300012: bench_121
+    4300014: Light-pole_196
+    4300016: Light-pole_197
+    4300018: stall
+    4300020: Light-pole_201
+    4300022: burger
+    4300024: bench_125
+    4300026: bench_122
+    4300028: parking sign
+    4300030: Light-pole_190
+    4300032: bench_120
+    4300034: parking sign
+    4300036: Light-pole_193
+    4300038: bench_124
+    4300040: bench_130
+    4300042: Light-pole_200
+    4300044: Light-pole_189
+    4300046: bench_123
+    4300048: Light-pole_195
+    4300050: Light-pole_188
+    4300052: Light-pole_191
+    4300054: Light-pole_194
+    4300056: bench_106
+    4300058: tree
+    4300060: bench_133
+    4300062: bench_107
+    4300064: Light-pole_178
+    4300066: garden fence_patch3
+    4300068: Light-pole_208
+    4300070: Light-pole_179
+    4300072: Building_House_D016
+    4300074: bench_109
+    4300076: bench_134
+    4300078: house
+    4300080: Light-pole_180
+    4300082: garden_pillar
+    4300084: gate
+    4300086: bench_108
+    4300088: stall
+    4300090: Light-pole_181
+    4300092: Light-pole_207
+    4300094: slide002
+    4300096: bench_127
+    4300098: bench_110
+    4300100: Light-pole_198
+    4300102: parking sign
+    4300104: bench_129
+    4300106: sports car
+    4300108: CarB_008
+    4300110: bench_128
+    4300112: Light-pole_206
+    4300114: Light-pole_183
+    4300116: bench_112
+    4300118: Light-pole_205
+    4300120: parking sign
+    4300122: bench_113
+    4300124: Light-pole_184
+    4300126: Light-pole_204
+    4300128: bench_114
+    4300130: patch_03
+    4300132: bench_132
+    4300134: Light-pole_187
+    4300136: sports car
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 4da3b596bf5af499e88c454f110562b4
+timeCreated: 1476684893
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bench_067
+    100002: Building_Shop_A01
+    100004: city:polySurface338
+    100006: fence garden
+    100008: house-135
+    100010: house-143
+    100012: house-door-01-005
+    100014: house-door-01-006
+    100016: house-door-24-005
+    100018: house03:polySurface055
+    100020: Japanese__h003
+    100022: Light-pole_128
+    100024: Object001
+    100026: Object002
+    100028: Object003
+    100030: //RootNode
+    100032: patch_01 1
+    100034: pine tree
+    100036: saloon001
+    100038: shop3
+    100040: WheelA_021
+    100042: WheelA_022
+    100044: WheelA_028
+    100046: WheelA_040
+    400000: bench_067
+    400002: Building_Shop_A01
+    400004: city:polySurface338
+    400006: fence garden
+    400008: house-135
+    400010: house-143
+    400012: house-door-01-005
+    400014: house-door-01-006
+    400016: house-door-24-005
+    400018: house03:polySurface055
+    400020: Japanese__h003
+    400022: Light-pole_128
+    400024: Object001
+    400026: Object002
+    400028: Object003
+    400030: //RootNode
+    400032: patch_01 1
+    400034: pine tree
+    400036: saloon001
+    400038: shop3
+    400040: WheelA_021
+    400042: WheelA_022
+    400044: WheelA_028
+    400046: WheelA_040
+    2300000: bench_067
+    2300002: Building_Shop_A01
+    2300004: city:polySurface338
+    2300006: fence garden
+    2300008: house-door-24-005
+    2300010: house03:polySurface055
+    2300012: Japanese__h003
+    2300014: Light-pole_128
+    2300016: Object001
+    2300018: Object002
+    2300020: Object003
+    2300022: patch_01 1
+    2300024: pine tree
+    2300026: saloon001
+    2300028: shop3
+    2300030: WheelA_021
+    2300032: WheelA_022
+    2300034: WheelA_028
+    2300036: WheelA_040
+    3300000: bench_067
+    3300002: Building_Shop_A01
+    3300004: city:polySurface338
+    3300006: fence garden
+    3300008: house-door-24-005
+    3300010: house03:polySurface055
+    3300012: Japanese__h003
+    3300014: Light-pole_128
+    3300016: Object001
+    3300018: Object002
+    3300020: Object003
+    3300022: patch_01 1
+    3300024: pine tree
+    3300026: saloon001
+    3300028: shop3
+    3300030: WheelA_021
+    3300032: WheelA_022
+    3300034: WheelA_028
+    3300036: WheelA_040
+    4300000: bench_067
+    4300002: Object002
+    4300004: house-door-24-005
+    4300006: pine tree
+    4300008: Object003
+    4300010: Object001
+    4300012: saloon001
+    4300014: fence garden
+    4300016: WheelA_028
+    4300018: WheelA_021
+    4300020: WheelA_022
+    4300022: WheelA_040
+    4300024: Light-pole_128
+    4300026: house03:polySurface055
+    4300028: Building_Shop_A01
+    4300030: city:polySurface338
+    4300032: Japanese__h003
+    4300034: shop3
+    4300036: patch_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
